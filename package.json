@@ -1,0 +1,19 @@
+{
+  "name": "rickandmorty",
+  "version": "1.0.0",
+  "description": "Hi, this is a proyect from Henry for Henry's",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dabelgarcia/rickandmorty.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dabelgarcia/rickandmorty/issues"
+  },
+  "homepage": "https://github.com/dabelgarcia/rickandmorty#readme"
+}
